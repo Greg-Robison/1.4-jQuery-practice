@@ -1,0 +1,76 @@
+body{
+  font-family: helvetica;
+
+}
+ul{
+  list-style: none;
+  text-align: center;
+}
+.btn-group-lg>.btn, .btn-lg {
+    padding: 5px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+}
+
+.btn{
+  background: linear-gradient(#b2c364, #6f812c);
+  // background-color: #90af43;
+  color: #797979;
+  border: 2px solid #000000;
+  border-radius: 0;
+  width: 250px;
+  height: 35px;
+  text-align: left;
+}
+.num1{
+  font-size: 10px;
+    text-align: right;;
+    margin-left: 22px;
+    border: .5px solid;
+
+    border-radius: 35%;
+    padding-right: 3px;
+}
+.num2{
+  font-size: 10px;
+    text-align: right;;
+    margin-left: 22px;
+    border: .5px solid;
+
+    border-radius: 35%;
+    padding-right: 3px;
+}
+.num3{
+  font-size: 10px;
+    text-align: right;;
+    margin-left: 22px;
+    border: .5px solid;
+
+    border-radius: 35%;
+    padding-right: 3px;
+}
+.num1-1{
+  color: #afa7a7;
+  padding-left: 2px;
+  padding-right: 4px;
+  font-size: 9px;
+}
+.num{
+  text-align: right;
+  color: #797979;
+}
+a{
+  color: #797979;
+}
+li{
+  text-align: left;;
+  position: relative;
+  width: 250px;
+  height: 32px;
+  border: .5px solid #c9c9c9;
+  text-decoration: none;
+  background-color: #e5e5e5;
+  margin-left: -40px;
+  margin-right: 890px;
+}
